@@ -1,6 +1,7 @@
 name = Tags Admin
 description = Provides enhanced admin UI for Tag taxonomy vocabularies
 core = 7.x
+version = 7.x-0.1
 package = OMBU
 dependencies[] = views
 features[ctools][] = views:views_default:3.0
